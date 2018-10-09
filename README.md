@@ -1,7 +1,7 @@
 # php-blog-sandbox
 A small project to play around with php and some javascript + css. This is a simple website where people can signup and make blog posts.
 
-Note that this project requires a mysql database. A .db file is included in the repo with the appropriate structure and some stuff pre-setup. The structure of the database is at the bottom of this file.
+Note that this project requires a mysql database. A .sql file is included in the repo with the appropriate structure and some stuff pre-setup. The structure of the database is at the bottom of this file.
 
 
 TO DO:
